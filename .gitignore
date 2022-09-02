@@ -1,0 +1,14 @@
+/.templates
+/data
+
+*.org
+*.odp
+*.ppt
+*.pptx
+*.tex
+*.bib
+*.log
+*.toc
+*.aux
+
+*~

@@ -1,0 +1,59 @@
+#+TITLE: ClubProgra2023-1
+#+AUTHOR: Guennadi Maximov Cortés
+#+DATE: 02-09-2022
+#+LANGUAGE: es
+#+OPTIONS: toc:t
+#+TAGS: readme|introduction|info|startup|explanation
+
+- Última Edición :: 02-09-2022, Guennadi Maximov
+
+* Sobre Mí
+** Bienvenida
+Les doy una cordial bienvenida al Club de Programación de TICS. Mi nombre es
+[[https://github.com/DrKJeff16][Guennadi Maximov]]. Soy un estudiante de 3er
+semestre de TICS a día de hoy y soy el fundador del club, así como el
+administrador de este repositorio.
+
+** Conocimientos
+Mi experiencia con programación se divide en varios rubros, ordenados de
+mayor experiencia a menor experiencia:
+
+- *_Lenguajes de Programación_*
+      1. BASH / sh
+      2. Python
+      3. C
+      4. C++
+      5. SQL (/enfocado a MariaDB/)
+      6. Java
+      7. Javascript
+      8. C#
+
+- *_Lenguajes De Estructuración De Documentos_*
+      1. Markdown
+      2. Emacs Org Mode
+      3. HTML+CSS
+      4. LaTeX
+      5. RST
+
+** Objetivos
+El principal objetivo de este club es ayudar de manera comunitaria y
+voluntaria a resolver problemas concernientes a conceptos varios de
+computación, incluyendo, pero no limitándose a:
+
+- Instalar y manejar sistemas */UNIX/* (/Linux/, /BSD/, /MacOS/), ya sea en
+  una computadora o en una máquina virtual.
+- Comprender la estructura de un sistema de archivos, incluyendo cómo
+  manipularlos, ubicarlos y ordenarlos de manera óptima.
+- Montar un ambiente de trabajo y estudio óptimo para resolver problemas de
+  programación y fomentar un uso correcto de las herramientas.
+- Explicar conceptos fundamentales de lógica, flujos de ejecución, ejecución
+  y estructura de programas y/o algoritmos dados.
+- Resolver dudas y explicar los diferentes métodos para resolver un problema
+  en particular.
+- Dar sentido práctico a la programación.
+- Proporcionar apoyo e instrucción para el uso de la consola de sistemas
+  */UNIX/*, particularmente *[[https://es.wikipedia.org/wiki/Bash][BASH]]*.
+- Instruir en el uso de sistemas de
+  [[https://es.wikipedia.org/wiki/Control_de_versiones][control de versiones]],
+  en particular _[[https://es.wikipedia.org/wiki/Git][Git]]_.
+
