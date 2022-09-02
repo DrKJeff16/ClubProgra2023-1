@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Requerimientos Del Club](#orgd681acd)
-    1.  [Material Físico](#orge079b12)
-    2.  [Herramientas Para Instalar](#org3812d94)
-        1.  [Editores De Texto](#orgc4fd48e)
+1.  [Requerimientos Del Club](#org353810c)
+    1.  [Material Físico](#orge470a90)
+    2.  [Herramientas Para Instalar](#org5c4bb40)
+        1.  [Editores De Texto](#orgb8cae85)
 
 -   **Última Edición:** 02-09-2022, Guennadi Maximov
 
 
-<a id="orgd681acd"></a>
+<a id="org353810c"></a>
 
 # Requerimientos Del Club
 
 
-<a id="orge079b12"></a>
+<a id="orge470a90"></a>
 
 ## Material Físico
 
@@ -54,7 +54,7 @@
 </table>
 
 
-<a id="org3812d94"></a>
+<a id="org5c4bb40"></a>
 
 ## Herramientas Para Instalar
 
@@ -63,7 +63,7 @@ ayudarán durante el proceso de aprendizaje. Los dividiremos en partes
 específicas&#x2026;
 
 
-<a id="orgc4fd48e"></a>
+<a id="orgb8cae85"></a>
 
 ### Editores De Texto
 

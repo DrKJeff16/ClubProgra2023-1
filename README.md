@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Sobre Mí](#org9448849)
-    1.  [Bienvenida](#org3504eb9)
-    2.  [Conocimientos](#org9ed9096)
-    3.  [Objetivos](#org9abfb4a)
+1.  [Sobre Mí](#orgc8f81a3)
+    1.  [Bienvenida](#orgc171cd0)
+    2.  [Conocimientos](#orgc9bcc41)
+    3.  [Objetivos](#org25c7a18)
 
 -   **Última Edición:** 02-09-2022, Guennadi Maximov
 
 
-<a id="org9448849"></a>
+<a id="orgc8f81a3"></a>
 
 # Sobre Mí
 
 
-<a id="org3504eb9"></a>
+<a id="orgc171cd0"></a>
 
 ## Bienvenida
 
@@ -24,7 +24,7 @@ semestre de TICS a día de hoy y soy el fundador del club, así como el
 administrador de este repositorio.
 
 
-<a id="org9ed9096"></a>
+<a id="orgc9bcc41"></a>
 
 ## Conocimientos
 
@@ -49,7 +49,7 @@ mayor experiencia a menor experiencia:
     5.  RST
 
 
-<a id="org9abfb4a"></a>
+<a id="org25c7a18"></a>
 
 ## Objetivos
 
