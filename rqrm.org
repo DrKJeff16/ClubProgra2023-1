@@ -1,0 +1,41 @@
+#+TITLE: Requerimentos
+#+AUTHOR: Guennadi Maximov Cortés
+#+DATE: 02-09-2022
+#+LANGUAGE: es
+#+OPTIONS: toc:t
+#+TAGS: readme|introduction|info|startup|explanation
+
+- Última Edición :: 02-09-2022, Guennadi Maximov
+
+* Requerimientos Del Club
+** Material Físico
+
+| Material | ¿Obligatorio? |
+|----------+---------------|
+| Laptop / Computadora | ~NO~ |
+| Memoria USB / Memoria Externa | ~SÍ~ |
+| Libreta / Material para hacer anotaciones | ~SÍ~ |
+
+** Herramientas Para Instalar
+Durante el curso, utilizaremos varios programas y herramientas que nos
+ayudarán durante el proceso de aprendizaje. Los dividiremos en partes
+específicas...
+
+*** Editores De Texto
+Los siguientes editores de texto son aquellos que, a mi parecer, son
+extremadamente útiles a su manera, _/¡y son gratuitos!/_ Están calificados,
+sin embargo, por mi sesgo personal, por lo que recomiendo que investigues y
+los pruebes por tu cuenta, pues tú decides con qué entorno de desarrollo
+practicarás.
+
+| Nombre | Calificación | Windows | MacOS | Linux | Pros | Contras | Comentarios |
+|--------+--------------+---------+-------+-------+------+---------+-------------|
+| [[https://notepad-plus-plus.org][Notepad++]] | ~6/10~ | ~X~ | ~?~ | ~?~ | Portable, fácil de usar y extensible | Cerrado a una plataforma, configuración limitada. | ~-~ |
+| [[https://www.vim.org][Vim]] / [[https://neovim.io][NeoVim]] | ~9/10~ | ~X~ | ~X~ | ~X~ | Muy rápido, extensible y configurable. Bien documentado. Puede generar flujos de trabajo personalizados | Difícil de aprender, requiere *mucha* memorización. La configuración por defecto no suele dar una buena primera impresión | /NeoVim es mi editor de texto preferido/ |
+| [[https://code.visualstudio.com][VS Code]] | ~7/10~ | ~X~ | ~X~ | ~X~ | Extensible, multi-propósito y popular. Bueno para empezar | Lento, consume mucha memoria y configurarlo puede ser complicado | /Es un buen punto de inicio/ |
+| [[https://www.sublimetext.com][Sublime Text]] | ~6/10~ | ~X~ | ~?~ | ~?~ | Completo inicialmente, multi-propósito | Cerrado a una plataforma, lento, consume mucha memoria y complicado de modificar al gusto | ~-~ |
+
+Entre otros existen GNU Emacs, GNU Nano, Bloc de Notas (Windows), PyCharm,
+Eclipse, CLion...
+
+
